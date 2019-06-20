@@ -50,11 +50,17 @@ ul{
 
 }
 
+input[type="text"] {
+  width: 300px;
+
+  }
+
+
 .Form{
 
     display: inline-block;
-    -moz-appearance
-    
+    -moz-appearance;
+    width: 500px;
 }
 
 footer{
@@ -110,5 +116,5 @@ font-family: arial,sans-serif;
 }
 
 form{
-
+  width: 500px;
 }
